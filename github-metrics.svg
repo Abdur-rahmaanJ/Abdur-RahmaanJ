@@ -471,7 +471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carlos-jenkins/python-github-webhooks</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple Python WSGI application to handle Github webhooks</div>
@@ -524,7 +524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bloomberg/python-github-webhook</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A framework for writing webhooks for GitHub, in Python.</div>
@@ -1372,7 +1372,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jan 2022, 16:22:15 (timezone Indian/Mauritius) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 25 Jan 2022, 17:17:21 (timezone Indian/Mauritius) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
