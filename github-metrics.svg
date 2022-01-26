@@ -471,7 +471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>c-w/gutenberg</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple interface to the Project Gutenberg corpus.</div>
@@ -524,7 +524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>edgedb/edgedb-python</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official Python client library for EdgeDB</div>
@@ -577,7 +577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>edgedb/edgedb</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A next-generation graph-relational database.</div>
@@ -630,7 +630,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MagicStack/asyncpg</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast PostgreSQL Database Client Library for Python/asyncio.</div>
@@ -875,7 +875,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.9336071184120489 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.976043805612596 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1372,7 +1372,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jan 2022, 08:17:15 (timezone Indian/Mauritius) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 26 Jan 2022, 09:12:33 (timezone Indian/Mauritius) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
