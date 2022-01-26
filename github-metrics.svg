@@ -471,7 +471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abdallahYashir/extract_token</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple python script to extract a from a string containing a bearer token</div>
@@ -518,7 +518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>c-w/gutenberg</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple interface to the Project Gutenberg corpus.</div>
@@ -571,7 +571,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>edgedb/edgedb-python</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official Python client library for EdgeDB</div>
@@ -624,7 +624,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>edgedb/edgedb</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A next-generation graph-relational database.</div>
@@ -1366,7 +1366,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jan 2022, 16:20:47 (timezone Indian/Mauritius) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 26 Jan 2022, 17:18:23 (timezone Indian/Mauritius) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
