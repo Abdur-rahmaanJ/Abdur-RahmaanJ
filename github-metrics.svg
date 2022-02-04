@@ -524,7 +524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>harfang3d/dogfight-sandbox-hg2</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Air to air combat sandbox, created in Python 3 using the HARFANG 3D 2 framework.</div>
@@ -577,7 +577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>harfang3d/harfang3d</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HARFANG 3D source code public repository</div>
@@ -1360,7 +1360,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Feb 2022, 05:47:16 (timezone Indian/Mauritius) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 4 Feb 2022, 06:15:10 (timezone Indian/Mauritius) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
