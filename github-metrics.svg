@@ -472,7 +472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codesyncapp/homebrew-core</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍻 Default formulae for the missing package manager for macOS</div>
@@ -525,7 +525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codesyncapp/codesync-vs</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VS code extension for codesync</div>
@@ -578,7 +578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codesyncapp/codesync</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CodeSync python client</div>
@@ -1373,7 +1373,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2022, 17:16:01 (timezone Indian/Mauritius) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 10 Feb 2022, 18:12:36 (timezone Indian/Mauritius) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
