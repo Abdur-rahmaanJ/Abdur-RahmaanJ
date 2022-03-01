@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2235" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2200" class="">
     <defs>
         <style/>
     </defs>
@@ -71,7 +71,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">SWE among others for @MetabobProject, organises FlaskCon. Unfollows those who follow and unfollow to grow their followers to follow ratio.</div>
+                        <div class="introduction">SWE among others for @MetabobProject, organises FlaskCon.</div>
                     </section>
                 </div>
             </section>
@@ -1367,7 +1367,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Mar 2022, 23:11:50 (timezone Indian/Mauritius) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 2 Mar 2022, 00:17:21 (timezone Indian/Mauritius) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
