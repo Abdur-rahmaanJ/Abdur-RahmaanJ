@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2216" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2234" class="">
     <defs>
         <style/>
     </defs>
@@ -71,7 +71,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">SWE among others for @MetabobProject, organises FlaskCon.</div>
+                        <div class="introduction">Organises FlaskCon, watch out for the next edition. Ping me on Twitter if you'd like to contribute meaningfully to OpenSource</div>
                     </section>
                 </div>
             </section>
@@ -468,7 +468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eeeear/Online-Computer-Science-Degree</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-Source Computer Science Degree</div>
@@ -1360,7 +1360,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Mar 2022, 21:15:23 (timezone Indian/Mauritius) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 4 Mar 2022, 22:16:59 (timezone Indian/Mauritius) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
