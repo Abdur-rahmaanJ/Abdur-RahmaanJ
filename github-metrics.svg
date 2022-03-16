@@ -464,7 +464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wasi-master/pypi-command-line</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful, colorful, beautiful command-line-interface for pypi.org</div>
@@ -1365,7 +1365,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Mar 2022, 21:16:14 (timezone Indian/Mauritius) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 16 Mar 2022, 22:17:37 (timezone Indian/Mauritius) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
