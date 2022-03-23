@@ -464,7 +464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AsahiLinux/asahi-installer</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Asahi Linux installer</div>
@@ -517,7 +517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pycontribs/virtualenv</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Virtual Python Environment builder</div>
@@ -1365,7 +1365,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Mar 2022, 12:18:25 (timezone Indian/Mauritius) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 23 Mar 2022, 13:14:27 (timezone Indian/Mauritius) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
