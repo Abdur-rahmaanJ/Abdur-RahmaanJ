@@ -460,7 +460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dmitriiweb/ip-country</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An offline tool to get country by IP</div>
@@ -513,7 +513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DustinBrett/daedalOS</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Desktop environment in the browser.</div>
@@ -566,7 +566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>django-cms/django-cms-quickstart</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Dockerised django CMS project, ready to deploy on Divio or another Docker-based cloud platform, and run locally in Docker on your own machine. A Divio account is not required.</div>
@@ -1361,7 +1361,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Mar 2022, 17:25:13 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 30 Mar 2022, 18:14:13 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
