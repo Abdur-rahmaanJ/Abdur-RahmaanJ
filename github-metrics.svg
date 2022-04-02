@@ -460,7 +460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inkmonk/storio</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collaborative Story telling app</div>
@@ -560,7 +560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dmitriiweb/ip-country</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An offline tool to get country by IP</div>
@@ -1082,7 +1082,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 89.6k out of 294m repositories</span>
+                                    <span class="gh">ranked 89.6k out of 295m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 108 times</div>
                             </div>
@@ -1155,7 +1155,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 145k out of 294m repositories</span>
+                                    <span class="gh">ranked 145k out of 295m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 205 stars</div>
                             </div>
@@ -1355,7 +1355,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Apr 2022, 10:17:49 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 2 Apr 2022, 11:14:07 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
