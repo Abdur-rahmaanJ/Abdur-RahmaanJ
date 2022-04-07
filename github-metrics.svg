@@ -505,7 +505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/mimir</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.</div>
@@ -558,7 +558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fangli/django-saml2-auth</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta</div>
@@ -611,7 +611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/django-saml2-auth</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, Azure AD and others.</div>
@@ -1353,7 +1353,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Apr 2022, 20:20:31 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 7 Apr 2022, 21:17:11 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
