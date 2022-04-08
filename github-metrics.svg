@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>avast/pytest-docker</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker-based integration tests</div>
@@ -505,7 +505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plausible/analytics</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</div>
@@ -558,7 +558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/mimir</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.</div>
@@ -1353,7 +1353,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Apr 2022, 12:17:57 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 8 Apr 2022, 13:14:52 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
