@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reloadware/reloadium</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advanced hot reloading for Python</div>
@@ -505,7 +505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>python/bedevere</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A bot to help identify missing information for CPython pull requests</div>
@@ -558,7 +558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kroitor/asciichart</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies</div>
@@ -611,7 +611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>glamp/bashplotlib</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">plotting in the terminal</div>
@@ -1353,7 +1353,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Apr 2022, 19:16:38 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 11 Apr 2022, 20:21:30 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
