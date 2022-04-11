@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reloadware/reloadium</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advanced hot reloading for Python</div>
@@ -505,7 +505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>python/bedevere</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A bot to help identify missing information for CPython pull requests</div>
@@ -1353,7 +1353,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Apr 2022, 17:27:06 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 11 Apr 2022, 18:14:15 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
