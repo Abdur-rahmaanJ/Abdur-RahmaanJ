@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>do-community/django-polls</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Django Tutorial Polls App</div>
@@ -1080,7 +1080,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 88.9k out of 298m repositories</span>
+                                    <span class="gh">ranked 88.9k out of 299m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 109 times</div>
                             </div>
@@ -1153,7 +1153,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 145k out of 298m repositories</span>
+                                    <span class="gh">ranked 145k out of 299m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 205 stars</div>
                             </div>
@@ -1353,7 +1353,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Apr 2022, 10:19:05 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 13 Apr 2022, 11:15:21 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
