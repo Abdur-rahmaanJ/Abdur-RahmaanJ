@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dwyl/learn-phoenix-framework</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -503,7 +503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>L05/p5.touchgui</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multi-touch and mouse GUI Library for p5.js</div>
@@ -550,7 +550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linux-man/ptmx</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use Tiled maps on your Processing sketch.</div>
@@ -603,7 +603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bmoren/p5.geolocation</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a geolocation and geofencing library for p5.js</div>
@@ -881,7 +881,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.46680355920601757 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5092402464065646 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1345,7 +1345,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Apr 2022, 08:18:44 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 16 Apr 2022, 09:13:27 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
