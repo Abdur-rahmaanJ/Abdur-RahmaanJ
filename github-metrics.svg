@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PyMySQL/mysqlclient</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MySQL database connector for Python (with Python 3 support)</div>
@@ -505,7 +505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rezrov/libnanosvg</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple stupid SVG parser</div>
@@ -558,7 +558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>memononen/nanosvg</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple stupid SVG parser</div>
@@ -611,7 +611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rezrov/pynanosvg</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cython wrapper for memononen's nanosvg</div>
@@ -1353,7 +1353,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Apr 2022, 17:30:18 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 18:15:04 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
