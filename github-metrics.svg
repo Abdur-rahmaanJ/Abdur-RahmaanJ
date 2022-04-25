@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PyMySQL/mysqlclient</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MySQL database connector for Python (with Python 3 support)</div>
@@ -1353,7 +1353,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Apr 2022, 19:17:54 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 20:21:01 (timezone Indian/Mauritius) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
