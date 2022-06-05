@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mitsuhiko/pipsi</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred May 07 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">pip script installer</div>
@@ -499,7 +499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cs01/gdbgui</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred May 07 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.</div>
@@ -1341,7 +1341,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jun 2022, 00:14:44 (timezone Indian/Mauritius) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 6 Jun 2022, 01:13:24 (timezone Indian/Mauritius) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
