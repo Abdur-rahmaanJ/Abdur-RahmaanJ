@@ -442,7 +442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ossf/scorecard-action</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official GitHub Action for OSSF Scorecards.</div>
@@ -489,7 +489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ossf/Project-Security-Metrics</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collect, curate, and communicate relevant security metrics for open source projects.</div>
@@ -542,7 +542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ossf/scorecard</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Security Scorecards - Security health metrics for Open Source</div>
@@ -595,7 +595,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ossf/security-reviews</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A community collection of security reviews of open source software components.</div>
@@ -1331,7 +1331,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Aug 2022, 12:21:52 (timezone Indian/Mauritius) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 13:14:56 (timezone Indian/Mauritius) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
