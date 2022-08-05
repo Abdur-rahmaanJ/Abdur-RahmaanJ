@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3594 Commits
+                            3600 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cpina/push-to-another-repository-example</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Testing Github actions with Pandoc</div>
@@ -499,7 +499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cpina/github-action-push-to-another-repository</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">github Action to push files into another Github repository</div>
@@ -552,7 +552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mgaitan/sphinxcontrib-mermaid</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mermaid diagrams in yours sphinx powered docs</div>
@@ -877,7 +877,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.2731006160164253 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1068,7 +1068,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 91.8k out of 331m repositories</span>
+                                    <span class="gh">ranked 91.9k out of 331m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 110 times</div>
                             </div>
@@ -1341,7 +1341,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Aug 2022, 07:42:30 (timezone Indian/Mauritius) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 5 Aug 2022, 08:43:21 (timezone Indian/Mauritius) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
