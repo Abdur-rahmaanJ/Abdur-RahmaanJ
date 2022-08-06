@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustdesk/rustdesk</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.</div>
@@ -499,7 +499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AppFlowy-IO/AppFlowy</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</div>
@@ -552,7 +552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jamesmh/coravel</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Near-zero config .NET Core micro-framework that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!</div>
@@ -1347,7 +1347,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2022, 02:14:10 (timezone Indian/Mauritius) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 03:15:17 (timezone Indian/Mauritius) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
