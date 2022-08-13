@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opensbom-generator/spdx-sbom-generator</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Support CI generation of SBOMs via golang tooling.</div>
@@ -493,7 +493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liroyleshed/js-framework</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -535,7 +535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rajasegar/awesome-htmx</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Awesome things about htmx</div>
@@ -582,7 +582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>roottusk/vapi</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.</div>
@@ -1324,7 +1324,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Aug 2022, 11:14:49 (timezone Indian/Mauritius) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Aug 2022, 12:19:00 (timezone Indian/Mauritius) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
