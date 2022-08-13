@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opensbom-generator/spdx-sbom-generator</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Support CI generation of SBOMs via golang tooling.</div>
@@ -1324,7 +1324,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Aug 2022, 21:15:31 (timezone Indian/Mauritius) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Aug 2022, 22:17:45 (timezone Indian/Mauritius) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
