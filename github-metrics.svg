@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PostHog/posthog</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦔 PostHog provides open-source product analytics that you can self-host.</div>
@@ -499,7 +499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>raniaamina/libreoffice-theme</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LibreOffice Theme Changer</div>
@@ -1335,7 +1335,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Aug 2022, 11:14:30 (timezone Indian/Mauritius) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 20 Aug 2022, 12:19:51 (timezone Indian/Mauritius) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
