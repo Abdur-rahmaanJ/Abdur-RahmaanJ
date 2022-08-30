@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davisonio/awesome-irc</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome IRC resources.</div>
@@ -487,7 +487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jabberwock/PedestrianHighlighterPOC</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proof of concept - Highlight pedestrians on a live stream. Uses Python + OpenCV + Flask</div>
@@ -540,7 +540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ksh7/flask-starter</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flask-Starter is a boilerplate starter template designed to help you quickstart your Flask web application development.</div>
@@ -587,7 +587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>d3/d3</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1334,7 +1334,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2022, 00:17:23 (timezone Indian/Mauritius) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 01:15:12 (timezone Indian/Mauritius) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
