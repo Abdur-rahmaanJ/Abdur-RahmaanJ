@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ksh7/flask-starter</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flask-Starter is a boilerplate starter template designed to help you quickstart your Flask web application development.</div>
@@ -493,7 +493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>d3/d3</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -551,7 +551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvbn/thefuck</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Magnificent app which corrects your previous console command.</div>
@@ -604,7 +604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sharkdp/bat</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cat(1) clone with wings.</div>
@@ -1346,7 +1346,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Aug 2022, 20:22:30 (timezone Indian/Mauritius) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 30 Aug 2022, 21:22:15 (timezone Indian/Mauritius) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
