@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XpressAI/xircuits</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple visual programming environment for jupyterlab</div>
@@ -499,7 +499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opencv/opencv-python</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.</div>
@@ -552,7 +552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Quadricular/findstival</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Redis Hackathon on DEV Project</div>
@@ -1347,7 +1347,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Sept 2022, 18:17:43 (timezone Indian/Mauritius) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 1 Sept 2022, 19:18:39 (timezone Indian/Mauritius) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
