@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    399k added, 134k removed
+                                    1.50m added, 192k removed
                                 </div>
                             </section>
                             <section>
@@ -364,7 +364,7 @@
                         <span class="name">@sphinx-doc</span>
                     </div>
                     <div class="organization contribution  ">
-                        <img class="organization avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="16" height="16" />
+                        <img class="organization avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAACMCAYAAACuwEE+AAAACXBIWXMAAAsTAAALEwEAmpwYAAAFWUlEQVR4nO2dv2pjRxTG5xFSp/IjGPICeoR9gBSuXKdZjkqXW27K7UzKVIIwTQKLISm2cKEtvEUgrGBhcZOgNEmR4oaRbVCE7Wh0z+icM/f3wYe8XlszOt9PZ+4f3euUEEIIIYQQQgghhBBCQTTPZ0nyIkleJ8kDDl2D9SbLkqm6XubTJHnp4EViaVKD5SZjxa5CR+kf1vX4bnPXWaxfCJYjQjOq08zzisAmBuw8r8YsRfYvAA8G0BywNM3zFWFNFthFPTD2k8ZiWAOAAcAEMECQ6DBAkDzUgCXJQQgSyADjIAQJZIBxEIIEMsA4CEECGWAchCCBDDAOQpBA9gbM7M274fL607D6469hW8vPf26+X/7fvGhTdrUaglKg2EdXv/0+nH77s33xpuhqNZjExU+/Doeo/J55AafmailPoCwzY1R+37yIU3K1HHSWXX3zwwf7Qk7F1VLcZtEU2zS5b2DKhqumyvOZv/um4Go57C4PosvkPoF5/cvHJsCU5zV/B/buaikMuu/xllqV5zUvaO+ulsKgLWVe0N5dLYCxD00Ahg4jDmDw2mF2TyxqqTyveUF7d7UcnA54SpwmyH0C8+K76ybAlOc1fwf27mopDay9LLEc5b6B0e4ydJfcNzCa2zJsu+T+lyQtaIAlTwuYMdBw7ihPE5jisg2y74Zw+Tk+DJ6nDcw2OM9dNcDGbbYBxSswOPuuAcA4CEECGWAchCCBDDAOQpBABhgHIUggA4yDECSQAeb4RZ+9ebe5iG9xc7u5POaxQwjl+8Xl586+f+/nigiAOR4kl9efhvXf/wyHqvyu+R0sLIHRlNXY+4BypXzRXlHpSiYHMQFmnJ4q7Mmrt01A2VUZ44uLHwEmcocp2xxjlp5albGOto1DhxmnY31e2Q00ADNOHmDZhqYshQATYEmyhuVolwvTYcap5c0FDlXTW7kBzDi1umRm7NLUbM8JYMap1VWcbm/jBjB9atXqsmGA6VenLXazAaZfvW5xRy6A6VfLFrvYANO3EsDoFGYqmml/FIIO01aLm9vNLu5jwZXvle2Mlicq1XevAabdxw5O9jyvUw6ytTq1oH7UF2D8hHTZABr1O6QDjK9d2aXyPYwB5gnVBtNCGuG8UD43pX7Elw7j78jqWnkjGGAUitJib0grmMXNrercAEahKNrS/AT/hdIfHnsQwCgURVuaocyU/zwQwCgUxfOeyAxg+gZG+6zwDGD6Bkb78PvJq7eq82NJUiiKplpc66wpgFEoiqYA5jl18i7SFMA8J4ABmCoBzOjulpx332ddrU6KYjl2ijw/gHEWiACMy6JYjp0iz48O4ywQARiXRbEcO0WeHx3GWSACMC6LYjl2ijw/OoyzQARgXBbFcuwUeX50GGeBCMC4LIrl2Cny/OgwzgIRgHFZFMuxU+T50WGcBSIA47IolmOnyPOjwzgLRADGZVEsx06R50eHcRaIAIzLoliOnSLPjw7jLBABGJdFsRw7RZ4fHcZZIAIwLotiOXaKPD86jLNABGBcFsVy7BR5fv/V+ZYf/v3l/dfl8ZwL2QBmV+c7X391/3V5BBiA+V9gvr7vLuURYABmrw6z9djJOm05duobmJ3HBsXBOU4NqmU9YTwADBAMYWpAh3EQggQywDgIQQIZYByEIIEMMA5CkEAGGAchSCADjIMQJJABxkEIEsgA4yAECWSAcRCC9A3MwnzSeDCqwaIemHk+I7CJQjvPZ/XA3EGzMp88Ho4MyyodrJf5lMAmBe16k/ko3S1NawcvBktjWA5eih7vNEtC6xba5fjO8nS3KXtPdJweOorkhV5XQQghhJIH/QvorBi6y+0K2QAAAABJRU5ErkJggg==" width="16" height="16" />
                         <span class="name">@linkedin</span>
                     </div>
                     <div class="organization contribution  ">
@@ -600,7 +600,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pola-rs/polars</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js</div>
@@ -621,7 +621,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        9.14k
+                                        9.15k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1342,7 +1342,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Nov 2022, 21:29:28 (timezone Indian/Mauritius) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Nov 2022, 22:19:00 (timezone Indian/Mauritius) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
