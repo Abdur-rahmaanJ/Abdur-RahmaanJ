@@ -365,7 +365,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>id-Software/wolf3d</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The original open source release of Wolfenstein 3D</div>
@@ -406,7 +406,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>astrofra/toy-cpp-raytracer-2003</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Super old project, probably my first real C++ project ever. Can load an .OBJ file and raytrace it.</div>
@@ -459,7 +459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cirospaciari/socketify.py</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3</div>
@@ -1171,7 +1171,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2023, 23:11:33 (timezone Indian/Mauritius) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 9 Feb 2023, 00:14:51 (timezone Indian/Mauritius) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
