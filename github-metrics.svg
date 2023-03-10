@@ -400,7 +400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leptos-rs/start-axum</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Starter template for use with the Leptos web framework and Axum.</div>
@@ -453,7 +453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dacort/duckdb-athena-extension</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An experimental Athena extension for DuckDB 🐤</div>
@@ -500,7 +500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>miguelgrinberg/alchemical</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SQLAlchemy 1.4+ wrapper that simplifies its use in Python applications. Can be used on its own or alongside Flask, FastAPI or other web frameworks.</div>
@@ -1206,7 +1206,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Mar 2023, 18:13:27 (timezone Indian/Mauritius) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Mar 2023, 19:13:43 (timezone Indian/Mauritius) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
