@@ -400,7 +400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vfx1b/kubectl-really-get-all</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A kubectl get plugin that allows you to list every resource in your cluster</div>
@@ -1206,7 +1206,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Mar 2023, 18:13:23 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Mar 2023, 19:15:10 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
