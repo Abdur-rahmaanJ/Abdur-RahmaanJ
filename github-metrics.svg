@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tarekziade/bench-db</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyberark/kubeletctl</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A client for kubelet</div>
@@ -1203,7 +1203,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Apr 2023, 18:13:54 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 Apr 2023, 19:14:47 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
