@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>security-union/zoom-rs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">zoom clone written in rust for research purposes</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phw/peek</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple animated GIF screen recorder with an easy to use interface</div>
@@ -498,7 +498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>readthedocs/sphinx-autoapi</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new approach to API documentation in Sphinx.</div>
@@ -551,7 +551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tox-dev/sphinx-autodoc-typehints</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Type hints support for the Sphinx autodoc extension</div>
@@ -619,7 +619,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jul 2023, 23:11:23 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 Jul 2023, 00:14:32 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
