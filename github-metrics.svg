@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/course</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Hugging Face course on Transformers</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>two-little-epochs/Twitter-Sentiment-Analysis-Flask-App</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Website for twitter sentiment analysis</div>
@@ -498,7 +498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yt-dlp/yt-dlp</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A youtube-dl fork with additional features and fixes</div>
@@ -551,7 +551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>degville/snap-yt-dlp</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">snapcraft build files for yt-dlp</div>
@@ -607,7 +607,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jul 2023, 12:19:01 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Jul 2023, 13:14:48 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
