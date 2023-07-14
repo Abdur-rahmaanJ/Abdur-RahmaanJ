@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linuxmint/cinnamon-spices-extensions</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extensions for the Cinnamon desktop</div>
@@ -443,7 +443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrLSD/nickel-cms</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The research project on the development of CMS based on Nickel framework</div>
@@ -496,7 +496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Keats/tera</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template engine for Rust based on Jinja2/Django</div>
@@ -549,7 +549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>diesel-rs/diesel</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A safe, extensible ORM and Query Builder for Rust</div>
@@ -617,7 +617,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jul 2023, 16:27:15 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jul 2023, 17:21:24 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
