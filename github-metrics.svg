@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>greyblake/kinded</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate Rust enum variants without associated data</div>
@@ -609,7 +609,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Aug 2023, 20:16:06 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Aug 2023, 21:11:58 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
