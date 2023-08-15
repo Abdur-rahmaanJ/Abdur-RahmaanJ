@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cc-d/flask-simple-captcha</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">lightweight captcha used for ieddit.com, doesn't require server side sessions</div>
@@ -503,7 +503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CubicMC/cubic-server</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast and extensible C++ implementation of Minecraft's server.</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Aug 2023, 21:10:30 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 15 Aug 2023, 22:14:13 (timezone Indian/Mauritius) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
