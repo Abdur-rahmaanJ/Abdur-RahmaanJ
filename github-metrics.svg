@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KillianLucas/open-interpreter</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenAI's Code Interpreter in your terminal, running locally</div>
@@ -449,7 +449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>typicode/json-server</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get a full fake REST API with zero coding in less than 30 seconds (seriously)</div>
@@ -502,7 +502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>latex3/latex2e</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The LaTeX2e kernel</div>
@@ -686,7 +686,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 11.2k out of 121m users</span>
+                                    <span class="gh">ranked 11.2k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 421 public repositories</div>
                             </div>
@@ -839,7 +839,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 12.2k out of 121m users</span>
+                                    <span class="gh">ranked 12.2k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 554 users</div>
                             </div>
@@ -984,7 +984,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 58.7m repositories</span>
+                                    <span class="gh">ranked 159k out of 51.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 242 stars</div>
                             </div>
@@ -1214,7 +1214,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Oct 2023, 11:11:34 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2023, 12:16:18 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
