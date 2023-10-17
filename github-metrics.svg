@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guybedford/es-module-shims</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shims for new ES modules features on top of the basic modules support in browsers</div>
@@ -449,7 +449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WICG/import-maps</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">How to control the behavior of JavaScript imports</div>
@@ -979,7 +979,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 158k out of 58.1m repositories</span>
+                                    <span class="gh">ranked 158k out of 58.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 245 stars</div>
                             </div>
@@ -1209,7 +1209,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Oct 2023, 22:17:05 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Oct 2023, 23:10:22 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
