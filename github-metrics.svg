@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>miguelgrinberg/Flask-HTTPAuth</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes</div>
@@ -502,7 +502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guybedford/es-module-shims</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shims for new ES modules features on top of the basic modules support in browsers</div>
@@ -555,7 +555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WICG/import-maps</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">How to control the behavior of JavaScript imports</div>
@@ -984,7 +984,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 158k out of 127m repositories</span>
+                                    <span class="gh">ranked 158k out of 155m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 246 stars</div>
                             </div>
@@ -1214,7 +1214,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Oct 2023, 22:15:15 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2023, 23:10:20 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
