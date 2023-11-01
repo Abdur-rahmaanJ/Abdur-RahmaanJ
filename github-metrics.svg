@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wasi-master/13ft</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My own custom 12ft.io replacement</div>
@@ -449,7 +449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lizardfs/lizardfs</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LizardFS is an Open Source Distributed File System licensed under GPLv3.</div>
@@ -978,7 +978,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 158k out of 95.1m repositories</span>
+                                    <span class="gh">ranked 158k out of 105m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 246 stars</div>
                             </div>
@@ -1208,7 +1208,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Nov 2023, 15:10:27 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2023, 16:23:18 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
