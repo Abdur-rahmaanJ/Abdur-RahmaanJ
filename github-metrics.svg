@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gatewayd-io/gatewayd</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">☁️ Cloud-native database gateway and framework for building data-driven applications ✨ Like API gateways, for databases ✨</div>
@@ -984,7 +984,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 63.7m repositories</span>
+                                    <span class="gh">ranked 159k out of 55.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 245 stars</div>
                             </div>
@@ -1214,7 +1214,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Nov 2023, 11:12:07 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Nov 2023, 12:16:26 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
