@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openedx/edx-platform</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Open edX LMS &amp; Studio, powering education sites around the world!</div>
@@ -452,7 +452,7 @@
                                         <span>starred 3 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">A minimal chat application build with no deps but Flask!</div>
+                                <div class="field description">A minimal chat application built with no deps but Flask!</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -978,7 +978,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 58.4m repositories</span>
+                                    <span class="gh">ranked 159k out of 63.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 246 stars</div>
                             </div>
@@ -1208,7 +1208,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Nov 2023, 15:11:31 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2023, 16:24:48 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
