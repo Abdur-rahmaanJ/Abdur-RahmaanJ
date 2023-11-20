@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openedx/edx-platform</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Open edX LMS &amp; Studio, powering education sites around the world!</div>
@@ -680,7 +680,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 11.2k out of 123m users</span>
+                                    <span class="gh">ranked 11.2k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 425 public repositories</div>
                             </div>
@@ -864,7 +864,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 12.5k out of 123m users</span>
+                                    <span class="gh">ranked 12.5k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 555 users</div>
                             </div>
@@ -978,7 +978,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 58.9m repositories</span>
+                                    <span class="gh">ranked 159k out of 58.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 246 stars</div>
                             </div>
@@ -1208,7 +1208,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Nov 2023, 14:14:33 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2023, 15:11:31 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
