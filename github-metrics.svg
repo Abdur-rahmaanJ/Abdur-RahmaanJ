@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RedisVentures/redis-arXiv-search</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vector search demo with the arXiv paper dataset, RedisVL, HuggingFace, OpenAI, Cohere, FastAPI, React, and Redis as the vector database.</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abstractqqq/polars_ds_extension</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Polars extension for general data science use cases</div>
@@ -969,7 +969,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 55.7m repositories</span>
+                                    <span class="gh">ranked 159k out of 66.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 246 stars</div>
                             </div>
@@ -1199,7 +1199,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Nov 2023, 01:11:59 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2023, 02:12:17 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
