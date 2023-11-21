@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>redshaderobotics/scratch3.0-linux</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -438,7 +438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openedx/edx-platform</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Open edX LMS &amp; Studio, powering education sites around the world!</div>
@@ -669,7 +669,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 11.2k out of 124m users</span>
+                                    <span class="gh">ranked 11.2k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 425 public repositories</div>
                             </div>
@@ -853,7 +853,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 12.5k out of 124m users</span>
+                                    <span class="gh">ranked 12.5k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 555 users</div>
                             </div>
@@ -967,7 +967,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 58.2m repositories</span>
+                                    <span class="gh">ranked 159k out of 60.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 246 stars</div>
                             </div>
@@ -1197,7 +1197,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Nov 2023, 06:00:16 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2023, 06:34:16 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
