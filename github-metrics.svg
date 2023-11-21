@@ -438,7 +438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openedx/edx-platform</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Open edX LMS &amp; Studio, powering education sites around the world!</div>
@@ -967,7 +967,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 60.9m repositories</span>
+                                    <span class="gh">ranked 159k out of 69.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 246 stars</div>
                             </div>
@@ -1197,7 +1197,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Nov 2023, 06:34:16 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2023, 07:13:55 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
