@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>houzyk/talks</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Slides, pieces of code and further references dump for my public talks.</div>
@@ -960,7 +960,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 63.8m repositories</span>
+                                    <span class="gh">ranked 159k out of 66.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 247 stars</div>
                             </div>
@@ -1190,7 +1190,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2023, 11:11:08 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2023, 12:14:55 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
