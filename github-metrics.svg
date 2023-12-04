@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustedpy/result</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple Rust like Result type for Python 3. Fully type annotated.</div>
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheBigKahuna353/2dScroller</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -961,7 +961,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 57.7m repositories</span>
+                                    <span class="gh">ranked 159k out of 50.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 247 stars</div>
                             </div>
@@ -1191,7 +1191,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Dec 2023, 00:13:19 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2023, 01:10:14 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
