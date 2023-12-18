@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xAX/linux-insides</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A little bit about a linux kernel</div>
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>penberg/librescholar</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source scholarly literature search</div>
@@ -490,7 +490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kennethreitz/records</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SQL for Humans™</div>
@@ -543,7 +543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Matt-Esch/virtual-dom</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Virtual DOM and diffing algorithm</div>
@@ -674,7 +674,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 11.2k out of 126m users</span>
+                                    <span class="gh">ranked 11.2k out of 118m users</span>
                                 </div>
                                 <div class="text">Published 426 public repositories</div>
                             </div>
@@ -858,7 +858,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 12.4k out of 126m users</span>
+                                    <span class="gh">ranked 12.4k out of 118m users</span>
                                 </div>
                                 <div class="text">Followed by 566 users</div>
                             </div>
@@ -972,7 +972,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 54.4m repositories</span>
+                                    <span class="gh">ranked 159k out of 61.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 249 stars</div>
                             </div>
@@ -1202,7 +1202,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Dec 2023, 23:10:24 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Dec 2023, 00:13:23 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
