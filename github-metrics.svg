@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>penberg/librescholar</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source scholarly literature search</div>
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kennethreitz/records</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SQL for Humans™</div>
@@ -490,7 +490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Matt-Esch/virtual-dom</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Virtual DOM and diffing algorithm</div>
@@ -966,7 +966,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 50.2m repositories</span>
+                                    <span class="gh">ranked 159k out of 58.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 249 stars</div>
                             </div>
@@ -1196,7 +1196,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Dec 2023, 17:16:56 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2023, 18:12:41 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
