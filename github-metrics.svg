@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linuxmint/wayland</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All issues related to Wayland (Cinnamon, XApp, tools etc..)</div>
@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xAX/linux-insides</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A little bit about a linux kernel</div>
@@ -960,7 +960,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 55.8m repositories</span>
+                                    <span class="gh">ranked 159k out of 61.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 249 stars</div>
                             </div>
@@ -1190,7 +1190,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Dec 2023, 15:10:56 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Dec 2023, 16:23:24 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
