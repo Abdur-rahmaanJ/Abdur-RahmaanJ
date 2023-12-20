@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>python-pillow/Pillow</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python Imaging Library (Fork)</div>
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linuxmint/wayland</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All issues related to Wayland (Cinnamon, XApp, tools etc..)</div>
@@ -960,7 +960,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 53.3m repositories</span>
+                                    <span class="gh">ranked 159k out of 54.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 249 stars</div>
                             </div>
@@ -1190,7 +1190,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Dec 2023, 11:09:50 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Dec 2023, 12:13:16 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
