@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jay3332/pilmoji</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pilmoji is a fast and reliable emoji renderer for PIL.</div>
@@ -972,7 +972,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 160k out of 63m repositories</span>
+                                    <span class="gh">ranked 160k out of 63.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 249 stars</div>
                             </div>
@@ -1202,7 +1202,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Dec 2023, 19:12:26 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2023, 20:15:26 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
