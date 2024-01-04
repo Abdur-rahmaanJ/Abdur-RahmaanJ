@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Yelp/nrtsearch</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high performance gRPC server on top of Apache Lucene</div>
@@ -972,7 +972,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 58.1m repositories</span>
+                                    <span class="gh">ranked 159k out of 60.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 252 stars</div>
                             </div>
@@ -1202,7 +1202,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jan 2024, 23:10:22 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2024, 00:13:20 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
