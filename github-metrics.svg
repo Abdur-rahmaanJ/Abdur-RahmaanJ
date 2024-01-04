@@ -490,7 +490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pgjones/hypercorn</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hypercorn is an ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.</div>
@@ -543,7 +543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andykras/gptbot</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ChatGPT Telegram Bot: An interactive bot leveraging OpenAI's API to bring the conversational intelligence of ChatGPT directly into Telegram</div>
@@ -972,7 +972,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 158k out of 58m repositories</span>
+                                    <span class="gh">ranked 158k out of 56.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 252 stars</div>
                             </div>
@@ -1202,7 +1202,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jan 2024, 19:13:55 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 20:16:03 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
