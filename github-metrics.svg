@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MaartenGr/BERTopic</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Leveraging BERT and c-TF-IDF to create easily interpretable topics.</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Yelp/nrtsearch</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high performance gRPC server on top of Apache Lucene</div>
@@ -960,7 +960,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 149k out of 58.2m repositories</span>
+                                    <span class="gh">ranked 159k out of 59.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 252 stars</div>
                             </div>
@@ -1190,7 +1190,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jan 2024, 23:10:53 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2024, 00:13:58 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
