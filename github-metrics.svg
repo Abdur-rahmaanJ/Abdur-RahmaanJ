@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phpdude/django-macros-url</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Django Macros URL. Routing must be simple as possible</div>
@@ -431,7 +431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phpdude/django-template-names</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Django Templates Names by @phpdude</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wemake-services/django-split-settings</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.</div>
@@ -960,7 +960,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 159k out of 64.2m repositories</span>
+                                    <span class="gh">ranked 149k out of 64.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 252 stars</div>
                             </div>
@@ -1190,7 +1190,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jan 2024, 01:10:52 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jan 2024, 02:11:37 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
