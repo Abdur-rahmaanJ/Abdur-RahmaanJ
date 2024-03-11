@@ -372,7 +372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openzipkin/zipkin</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zipkin is a distributed tracing system</div>
@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jaegertracing/jaeger-clickhouse</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Jaeger ClickHouse storage plugin implementation</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>temporalio/temporal</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Temporal service</div>
@@ -960,7 +960,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 161k out of 143m repositories</span>
+                                    <span class="gh">ranked 161k out of 140m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 254 stars</div>
                             </div>
@@ -1190,7 +1190,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Mar 2024, 18:11:58 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Mar 2024, 19:13:28 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
