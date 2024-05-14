@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DavidBuchanan314/unsafe-python</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library to assist writing memory-unsafe code in "pure" python, without any imports (i.e. no ctypes etc.)</div>
@@ -433,7 +433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pallets-eco/flask-caching</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A caching extension for Flask</div>
@@ -968,7 +968,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 165k out of 205m repositories</span>
+                                    <span class="gh">ranked 165k out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 256 stars</div>
                             </div>
@@ -1198,7 +1198,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 May 2024, 11:13:31 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2024, 12:18:03 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
