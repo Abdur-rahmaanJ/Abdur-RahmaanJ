@@ -441,7 +441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>django-commons/membership</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -971,7 +971,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 165k out of 209m repositories</span>
+                                    <span class="gh">ranked 165k out of 201m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 257 stars</div>
                             </div>
@@ -1201,7 +1201,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 May 2024, 19:15:35 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 May 2024, 20:17:24 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
