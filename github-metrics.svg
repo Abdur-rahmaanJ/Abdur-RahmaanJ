@@ -377,7 +377,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sinaptik-AI/pandas-ai</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.</div>
@@ -965,7 +965,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 169k out of 216m repositories</span>
+                                    <span class="gh">ranked 169k out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 262 stars</div>
                             </div>
@@ -1195,7 +1195,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Sept 2024, 18:13:35 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2024, 19:16:40 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
