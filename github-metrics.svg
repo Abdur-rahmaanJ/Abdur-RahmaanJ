@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/Megatron-LM</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ongoing research training transformer models at scale</div>
@@ -433,7 +433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EleutherAI/gpt-neox</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries</div>
@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unclemusclez/ollama-toolkit</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Ollama Toolkit is a collection of powerful tools designed to enhance your experience with the Ollama project, an open-source framework for deploying and scaling machine learning models. Think of it as your one-stop shop for streamlining workflows and unlocking the full potential of Ollama!</div>
@@ -957,7 +957,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 169k out of 218m repositories</span>
+                                    <span class="gh">ranked 169k out of 223m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 262 stars</div>
                             </div>
@@ -1187,7 +1187,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Oct 2024, 12:20:24 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2024, 13:16:25 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
