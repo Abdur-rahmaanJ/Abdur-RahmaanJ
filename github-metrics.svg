@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/Megatron-LM</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ongoing research training transformer models at scale</div>
@@ -433,7 +433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EleutherAI/gpt-neox</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries</div>
@@ -957,7 +957,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 169k out of 220m repositories</span>
+                                    <span class="gh">ranked 169k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 262 stars</div>
                             </div>
@@ -1187,7 +1187,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Oct 2024, 16:30:43 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2024, 17:22:59 (timezone Indian/Mauritius) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
