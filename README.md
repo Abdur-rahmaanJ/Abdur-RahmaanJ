@@ -93,6 +93,4 @@ Hi, i invite you to a virtual coffee chat ☕ to talk about:
 - Packages have [273K downloads](https://www.compileralchemy.com/#open-source) according to Pepy.tech
 - Wrote [SQLite Internals](https://www.compileralchemy.com/books/sqlite-internals/) book
 
----
 
-[![since 29 oct 24](https://visitcount.itsvg.in/api?id=abdur-rahmaanj&label=Profile%20Views&color=3&icon=3&pretty=false)](https://visitcount.itsvg.in)
