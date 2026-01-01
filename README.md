@@ -1,9 +1,5 @@
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-RahmaanJ&show_icons=true&theme=transparent">
-</div>
 
 
-<br>
 
 Hi, i invite you to a virtual coffee chat ☕ to talk about:
 
@@ -90,7 +86,7 @@ Hi, i invite you to a virtual coffee chat ☕ to talk about:
 
 ### Random
 
-- Packages have [273K downloads](https://www.compileralchemy.com/#open-source) according to Pepy.tech
+- Packages have [420K downloads](https://www.compileralchemy.com/#open-source) according to Pepy.tech
 - Wrote [SQLite Internals](https://www.compileralchemy.com/books/sqlite-internals/) book
 
 
